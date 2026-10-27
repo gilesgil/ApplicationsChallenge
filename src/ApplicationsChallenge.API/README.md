@@ -100,7 +100,7 @@ Edit the connection string in `appsettings.json` to point to your PostgreSQL dat
 3. Run the application:
 
 ```bash
-cd ApplicationsChallenge.API
+cd src/ApplicationsChallenge.API
 dotnet restore
 dotnet run
 ```
